@@ -253,3 +253,6 @@ paket-files/
 /test/ICSharpCode.SharpZipLib.TestBootstrapper/Properties/launchSettings.json
 _testRunner/
 docs/help/api/.manifest
+
+# include Unity meta files
+!/src/ICSharpCode.SharpZipLib/**/*.meta
